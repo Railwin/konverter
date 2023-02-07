@@ -1,0 +1,17 @@
+C:\Users\railw\source\repos\konverter\bin\Debug\net6.0\konverter.exe
+C:\Users\railw\source\repos\konverter\bin\Debug\net6.0\konverter.deps.json
+C:\Users\railw\source\repos\konverter\bin\Debug\net6.0\konverter.runtimeconfig.json
+C:\Users\railw\source\repos\konverter\bin\Debug\net6.0\konverter.dll
+C:\Users\railw\source\repos\konverter\bin\Debug\net6.0\konverter.pdb
+C:\Users\railw\source\repos\konverter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\railw\source\repos\konverter\obj\Debug\net6.0\konverter.csproj.AssemblyReference.cache
+C:\Users\railw\source\repos\konverter\obj\Debug\net6.0\konverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\railw\source\repos\konverter\obj\Debug\net6.0\konverter.AssemblyInfoInputs.cache
+C:\Users\railw\source\repos\konverter\obj\Debug\net6.0\konverter.AssemblyInfo.cs
+C:\Users\railw\source\repos\konverter\obj\Debug\net6.0\konverter.csproj.CoreCompileInputs.cache
+C:\Users\railw\source\repos\konverter\obj\Debug\net6.0\konverter.csproj.CopyComplete
+C:\Users\railw\source\repos\konverter\obj\Debug\net6.0\konverter.dll
+C:\Users\railw\source\repos\konverter\obj\Debug\net6.0\refint\konverter.dll
+C:\Users\railw\source\repos\konverter\obj\Debug\net6.0\konverter.pdb
+C:\Users\railw\source\repos\konverter\obj\Debug\net6.0\konverter.genruntimeconfig.cache
+C:\Users\railw\source\repos\konverter\obj\Debug\net6.0\ref\konverter.dll
